@@ -23,5 +23,3 @@ Preencha a checklist para fazer os exercícios:
 -   [ ] Copiar a url do seu fork e enviar na plataforma
 
 ###### tags: `modulo-01` `typescript` `front-end` `React`
-
-Y
