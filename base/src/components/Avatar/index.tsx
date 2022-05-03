@@ -6,7 +6,6 @@ type Props = {
 }
 
 function Avatar({ image, size }: Props) {
-  console.log(image)
 
   const sizeAvatar = size || 147;
 
